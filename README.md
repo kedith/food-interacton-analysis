@@ -54,7 +54,7 @@ This section evaluates the new, cleaned data retrieved from the previous step.
 This plot shows the result of the sentence splitting. The initial data (blue) has a lower rate of short
 sentences (measured in words), which is improved by the processed data (orange).
 
-![Frequent food nouns plot](plots/frequent%20food%20nouns.PNG)
+![Frequent food nouns plot](plots/frequent%20food%20nouns.png)
 
    
 
