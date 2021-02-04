@@ -55,6 +55,7 @@ This plot shows the result of the sentence splitting. The initial data (blue) ha
 sentences (measured in words), which is improved by the processed data (orange).
 
 ![Frequent food nouns plot](plots/Frequent%20food%20nouns.png)
+The above diagram shows the most frequent food related nouns which appear in food interaction  descriptions.
 
    
 
